@@ -16,29 +16,25 @@
 
 ---
 
+
 ### `> whoami`
 
-```yaml
-identity:
-  username: hikari-yuto
-  role: AI Intern
-  interests:
-    - Artificial Intelligence
-    - Software Engineering
-    - Automation
-    - Creative Computing
+<div align="center">
 
-environment:
-  editor: Neovim
-  terminal: WezTerm
-  version_control: GitHub
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hikari-yuto&theme=github_dark" width="100%" alt="GitHub Profile Summary" />
 
-creative_tools:
-  - Blender
-  - Unity
+<br/>
 
-status: "Always learning. Always building."
-```
+**AI INTERN** · **DEVELOPER** · **CREATIVE CODER**
+
+`NEOVIM` / `WEZTERM` / `GITHUB` / `BLENDER` / `UNITY`
+
+<br/>
+
+*Exploring AI, automation, and creative technology.*
+
+</div>
+
 
 ---
 
@@ -100,24 +96,18 @@ status: "Always learning. Always building."
 
 ---
 
-### `> cat /etc/motd`
+
+### `> system shutdown --goodbye`
 
 <div align="center">
 
-```text
-  +------------------------------------------+
-  |                                          |
-  |    STAY CURIOUS.                         |
-  |    BUILD SOMETHING NEW.                  |
-  |    NEVER STOP EXPLORING.                 |
-  |                                          |
-  |                    -- HIKARI / YUTO      |
-  +------------------------------------------+
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1200&color=00F5D4&center=true&vCenter=true&width=650&height=80&lines=STAY+CURIOUS.;KEEP+BUILDING.;NEVER+STOP+EXPLORING." alt="Closing Message" />
 
 <br/>
 
-**Thanks for visiting my digital workspace.**
+<sub>END OF TRANSMISSION · HIKARI / YUTO</sub>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:0B3D48,100:00F5D4&height=100&section=footer" width="100%"/>
 
