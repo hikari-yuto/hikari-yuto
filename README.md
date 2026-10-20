@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,go&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js&theme=dark" />
 
 <br/><br/>
 
