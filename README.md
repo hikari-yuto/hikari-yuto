@@ -63,7 +63,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=neovim,git,github,blender,unity&theme=dark" />
+<img src="https://skillicons.dev/icons?i=neovim,git,github&theme=dark" />
 
 <br/><br/>
 
